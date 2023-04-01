@@ -1,6 +1,6 @@
 # This is Carlos <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29"> A Front - End Architect!
 
-## Little things about me
+### Little things about me
 
 - 🛠️ What I do -> Javascript Web Architecture and Development | React, Next, Express, Typescript, Node, Testing
 - 🏢 Where -> Critical software in the Defence & Space and Banking fields. 
