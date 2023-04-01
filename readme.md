@@ -9,14 +9,14 @@
 
 ### Feel free to contact me!
 
-[![website](./img/globe-light.svg)](https://jc-saldana.github.io/My-personal-web/)
-[![website](./img/globe-dark.svg)](https://jc-saldana.github.io/My-personal-web/)
+[![website](./img/globe-light.svg)](https://jc-saldana.github.io/My-personal-web/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://jc-saldana.github.io/My-personal-web/gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/carlos-salda%C3%B1a-19741b190/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/carlos-salda%C3%B1a-19741b190/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/carlos-salda%C3%B1a-19741b190/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/carlos-salda%C3%B1a-19741b190/gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/carlos_saldd/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/carlos_saldd/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/carlos_saldd/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/carlos_saldd/gh-dark-mode-only)
 
 ### Languages and Tools:
 
