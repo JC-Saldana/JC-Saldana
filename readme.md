@@ -1,13 +1,13 @@
-# Hola, soy Carlos! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29">
+# Hello there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29"> This is Carlos's playground, a Front - End Architect
 
-## Algunas cosillas sobre mí
+## Little things about me
 
 - 🛠️ What I do -> Javascript Web Architecture and Development | React, Next, Express, Typescript, Node, Testing
 - 🏢 Where -> Critical software in the Defence & Space and Banking fields. 
 - 🎓 Learning path -> Computer science, technical degree and 2 bootcamps. And, of course, self taught. 
 - 🔥 Passion -> Many side [projects](https://planificapistas.netlify.app/), startup in incubator, and I also build, fly and program drones :D
 
-### Escríbeme!
+### Feel free to contact me!
 
 [![website](./img/globe-light.svg)](https://jc-saldana.github.io/My-personal-web/)
 [![website](./img/globe-dark.svg)](https://jc-saldana.github.io/My-personal-web/)
