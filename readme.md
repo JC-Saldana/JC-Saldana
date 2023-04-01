@@ -27,7 +27,6 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
-<br />
 ### Feel free to contact me!
 
 [![website](./img/globe-light.svg)](https://jc-saldana.github.io/My-personal-web/#gh-light-mode-only)
@@ -38,8 +37,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/carlos_saldd/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/carlos_saldd/#gh-dark-mode-only)
-
-<br />
 
 [website]: https://jc-saldana.github.io/My-personal-web/
 [instagram]: https://www.instagram.com/carlos_saldd/
