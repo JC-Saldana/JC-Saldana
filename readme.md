@@ -1,4 +1,4 @@
-# Hello there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29"> This is Carlos's playground, a Front - End Architect
+# This is Carlos <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29"> A Front - End Architect!
 
 ## Little things about me
 
@@ -10,13 +10,13 @@
 ### Feel free to contact me!
 
 [![website](./img/globe-light.svg)](https://jc-saldana.github.io/My-personal-web/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://jc-saldana.github.io/My-personal-web/gh-dark-mode-only)
+[![website](./img/globe-dark.svg)](https://jc-saldana.github.io/My-personal-web/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/carlos-salda%C3%B1a-19741b190/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/carlos-salda%C3%B1a-19741b190/gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/carlos-salda%C3%B1a-19741b190/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/carlos_saldd/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/carlos_saldd/gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/carlos_saldd/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
