@@ -1,4 +1,4 @@
-# This is Carlos <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29"> A Front - End Architect!
+# This is Carlos <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29"> A Full Stack Developer!
 
 ### Little things about me
 
