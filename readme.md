@@ -5,7 +5,7 @@
 - 🛠️ What I do -> Javascript Web Architecture and Development | React, Next, Express, Typescript, Node, Testing
 - 🏢 Where -> Critical software in the Defence & Space and Banking fields. 
 - 🎓 Learning path -> Computer science, technical degree and 2 bootcamps. And, of course, self taught. 
-- 🔥 Passion -> Many side [projects](https://planificapistas.netlify.app/), startup in incubator, and I also build, fly and program drones :D
+- 🔥 Passion -> Many side [projects](https://www.typenews.net), startup in incubator, and I also build, fly and program drones :D
 
 ### Languages and Tools
 
@@ -29,9 +29,6 @@
 
 ### Feel free to contact me!
 
-[![website](./img/globe-light.svg)](https://jc-saldana.github.io/My-personal-web/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://jc-saldana.github.io/My-personal-web/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/carlos-salda%C3%B1a-19741b190/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/carlos-salda%C3%B1a-19741b190/#gh-dark-mode-only)
 &nbsp;&nbsp;
