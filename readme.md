@@ -1,6 +1,6 @@
 # This is Carlos <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29"> A Senior Full Stack Developer!
 
-### 🔥 Currenty project: [KingTyping](https://www.kingtyping.com)
+### 🔥 Current project: [KingTyping](https://www.kingtyping.com)
 - Learn Typing: We feature a typing academy for people to learn proper fingler placement in 15 minutes.
 - Practice & Strategize: Dive into unique typing games like TypeNews and Inkdoms, blending speed, real time news, and strategy.
 - Connect & Improve: Join a thriving community with chat, forums, and leaderboards to grow together!
