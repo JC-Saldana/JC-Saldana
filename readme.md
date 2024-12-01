@@ -1,11 +1,16 @@
 # This is Carlos <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29"> A Senior Full Stack Developer!
 
+### 🔥 Currenty project: [KingTyping](https://www.kingtyping.com)
+- Learn Typing: We feature a typing academy for people to learn proper fingler placement in 15 minutes.
+- Practice & Strategize: Dive into unique typing games like TypeNews and Inkdoms, blending speed, real time news, and strategy.
+- Connect & Improve: Join a thriving community with chat, forums, and leaderboards to grow together!
+
 ### Little things about me
 
 - 🛠️ What I do -> Javascript Web Architecture and Development | React, Next, Express, Typescript, Node, Testing
 - 🏢 Where -> Critical software in the Defence & Space and Banking fields. 
 - 🎓 Learning path -> Computer science, technical degree and 2 bootcamps. And, of course, self taught. 
-- 🔥 Passion -> Many side [projects](https://www.typenews.net), startup in incubator, and I also build, fly and program drones :D
+-  Passion -> Coding, sports, and I also like to build, fly and program drones :D
 
 ### Languages and Tools
 
